@@ -1,0 +1,11 @@
+C:\Users\SENAI3EM\source\repos\CalcularBaskara\CalcularBaskara\bin\Debug\net8.0\CalcularBaskara.deps.json
+C:\Users\SENAI3EM\source\repos\CalcularBaskara\CalcularBaskara\bin\Debug\net8.0\CalcularBaskara.dll
+C:\Users\SENAI3EM\source\repos\CalcularBaskara\CalcularBaskara\bin\Debug\net8.0\CalcularBaskara.pdb
+C:\Users\SENAI3EM\source\repos\CalcularBaskara\CalcularBaskara\obj\Debug\net8.0\CalcularBaskara.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SENAI3EM\source\repos\CalcularBaskara\CalcularBaskara\obj\Debug\net8.0\CalcularBaskara.AssemblyInfoInputs.cache
+C:\Users\SENAI3EM\source\repos\CalcularBaskara\CalcularBaskara\obj\Debug\net8.0\CalcularBaskara.AssemblyInfo.cs
+C:\Users\SENAI3EM\source\repos\CalcularBaskara\CalcularBaskara\obj\Debug\net8.0\CalcularBaskara.csproj.CoreCompileInputs.cache
+C:\Users\SENAI3EM\source\repos\CalcularBaskara\CalcularBaskara\obj\Debug\net8.0\CalcularBaskara.dll
+C:\Users\SENAI3EM\source\repos\CalcularBaskara\CalcularBaskara\obj\Debug\net8.0\refint\CalcularBaskara.dll
+C:\Users\SENAI3EM\source\repos\CalcularBaskara\CalcularBaskara\obj\Debug\net8.0\CalcularBaskara.pdb
+C:\Users\SENAI3EM\source\repos\CalcularBaskara\CalcularBaskara\obj\Debug\net8.0\ref\CalcularBaskara.dll
