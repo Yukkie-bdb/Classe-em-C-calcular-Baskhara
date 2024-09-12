@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TestarFormulaBaskara")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d658610b4acb434664d6542c4c3bf1f3fb46dc3d")]
 [assembly: System.Reflection.AssemblyProductAttribute("TestarFormulaBaskara")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TestarFormulaBaskara")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

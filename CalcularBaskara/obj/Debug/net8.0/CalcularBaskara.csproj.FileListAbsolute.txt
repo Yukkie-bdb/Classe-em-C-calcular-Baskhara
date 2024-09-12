@@ -9,3 +9,4 @@ C:\Users\SENAI3EM\source\repos\CalcularBaskara\CalcularBaskara\obj\Debug\net8.0\
 C:\Users\SENAI3EM\source\repos\CalcularBaskara\CalcularBaskara\obj\Debug\net8.0\refint\CalcularBaskara.dll
 C:\Users\SENAI3EM\source\repos\CalcularBaskara\CalcularBaskara\obj\Debug\net8.0\CalcularBaskara.pdb
 C:\Users\SENAI3EM\source\repos\CalcularBaskara\CalcularBaskara\obj\Debug\net8.0\ref\CalcularBaskara.dll
+C:\Users\SENAI3EM\source\repos\CalcularBaskara\CalcularBaskara\obj\Debug\net8.0\CalcularBaskara.sourcelink.json

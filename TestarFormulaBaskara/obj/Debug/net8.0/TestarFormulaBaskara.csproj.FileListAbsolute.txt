@@ -100,3 +100,4 @@ C:\Users\SENAI3EM\source\repos\CalcularBaskara\TestarFormulaBaskara\obj\Debug\ne
 C:\Users\SENAI3EM\source\repos\CalcularBaskara\TestarFormulaBaskara\obj\Debug\net8.0\TestarFormulaBaskara.pdb
 C:\Users\SENAI3EM\source\repos\CalcularBaskara\TestarFormulaBaskara\obj\Debug\net8.0\TestarFormulaBaskara.genruntimeconfig.cache
 C:\Users\SENAI3EM\source\repos\CalcularBaskara\TestarFormulaBaskara\obj\Debug\net8.0\ref\TestarFormulaBaskara.dll
+C:\Users\SENAI3EM\source\repos\CalcularBaskara\TestarFormulaBaskara\obj\Debug\net8.0\TestarFormulaBaskara.sourcelink.json
