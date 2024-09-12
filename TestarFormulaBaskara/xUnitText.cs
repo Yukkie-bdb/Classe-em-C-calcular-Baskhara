@@ -10,6 +10,9 @@ namespace TestarFormulaBaskara
 
             // Raiz não REAL
             Assert.Equal([0, 0], CalcularBaskara.CalcularBaskaraClasse.Baskara(0, -1, 1));
+            
+            // Raizez Iguais
+            Assert.Equal([-.5, -.5], CalcularBaskara.CalcularBaskaraClasse.Baskara(4, 4, 1));
         }
     }
 }

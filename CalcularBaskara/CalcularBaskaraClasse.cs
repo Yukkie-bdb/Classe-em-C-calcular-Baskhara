@@ -9,7 +9,7 @@ namespace CalcularBaskara
         {
             double delta = (b * b) + (-4 * a * c);
 
-            if (delta <= 0)
+            if (delta < 0)
                 return new double[0];
 
             double raiz1 = a <= 0 ? 0 : (-b + Math.Sqrt(delta)) / (2 * a);
